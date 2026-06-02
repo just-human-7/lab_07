@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/vsc_projects/lab_07/task_07/build/cmake_install.cmake",
+		"D:/vsc_projects/lab_07/task_07/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+D:/vsc_projects/lab_07/task_05/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

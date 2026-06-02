@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vsc_projects/lab_07/task_01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\task_01.dir\\logic.cpp.obj -c D:\\vsc_projects\\lab_07\\task_01\\logic.cpp",
+  "file": "D:/vsc_projects/lab_07/task_01/logic.cpp",
+  "output": "D:/vsc_projects/lab_07/task_01/build/CMakeFiles/task_01.dir/logic.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\task_01.dir\\tests.cpp.obj -c D:\\vsc_projects\\lab_07\\task_01\\tests.cpp",
+  "file": "D:/vsc_projects/lab_07/task_01/tests.cpp",
+  "output": "D:/vsc_projects/lab_07/task_01/build/CMakeFiles/task_01.dir/tests.cpp.obj"
+}
+]

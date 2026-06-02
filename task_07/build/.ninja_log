@@ -1,0 +1,18 @@
+# ninja log v7
+3	59	8014742286994981	D:/vsc_projects/lab_07/task_07/build/CMakeFiles/cmake.verify_globs	e1e44f88d16aaf94
+65	170	8014660800899518	tests/CMakeFiles/test_small.dir/__/logic.cpp.obj	749fdefde5c7d654
+55	172	8014660800807999	tests/CMakeFiles/test_medium.dir/__/logic.cpp.obj	610be08d6b514e66
+42	178	8014660800668876	tests/CMakeFiles/test_basic.dir/test_basic.cpp.obj	d8193950033075a5
+45	181	8014660800698814	tests/CMakeFiles/test_basic.dir/__/logic.cpp.obj	ae1a031337ffe045
+50	194	8014660800748205	tests/CMakeFiles/test_medium.dir/test_medium.cpp.obj	39082b043b3e20af
+60	206	8014660800856303	tests/CMakeFiles/test_small.dir/test_small.cpp.obj	db0b39e47cab7dd1
+181	308	8014660802065047	tests/test_basic.exe	43fdebdbf6063851
+194	330	8014660802190117	tests/test_medium.exe	f3413140755a47a1
+206	343	8014660802315009	tests/test_small.exe	7c9269f8b66e295d
+74	146	8014869966368799	D:/vsc_projects/lab_07/task_07/build/CMakeFiles/cmake.verify_globs	e1e44f88d16aaf94
+151	290	8014869967130010	tests/CMakeFiles/test_basic.dir/test_basic.cpp.obj	d8193950033075a5
+160	362	8014869967219720	tests/CMakeFiles/test_small.dir/test_small.cpp.obj	db0b39e47cab7dd1
+155	373	8014869967169880	tests/CMakeFiles/test_medium.dir/test_medium.cpp.obj	39082b043b3e20af
+291	492	8014869968526744	tests/test_basic.exe	43fdebdbf6063851
+362	536	8014869969247501	tests/test_small.exe	7c9269f8b66e295d
+373	538	8014869969355154	tests/test_medium.exe	f3413140755a47a1

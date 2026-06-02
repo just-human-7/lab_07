@@ -1,0 +1,15 @@
+# ninja log v7
+11	579	8014653672274923	gtests/CMakeFiles/tests.dir/__/logic.cpp.obj	daaa8903b1b5421a
+16	1492	8014645018990555	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	ad0e0962ef695c5e
+31	1400	8014654184808942	gtests/CMakeFiles/tests.dir/tests.cpp.obj	6aeb919b68e25f34
+31	1865	8014645019136456	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4b874829571eae70
+12	3651	8014645018952611	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	f37bc0a708dbecb5
+6	9338	8014645018894317	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	3c5972a34c1f589f
+9342	9795	8014645112247876	lib/libgtest.a	faf1e6a3cf37a026
+9808	9940	8014645116916671	lib/libgtest_main.a	f6794484d2ff62fd
+9795	10012	8014645116784736	lib/libgmock.a	afa32c770bd51e12
+10013	10125	8014645118960406	lib/libgmock_main.a	787461ebd4b059a8
+1401	1854	8014654198509429	gtests/tests.exe	6f1a4abf27d5f8d9
+259	771	8014868939094458	gtests/CMakeFiles/tests_06.dir/__/logic.cpp.obj	4c1911c01732f664
+253	1694	8014868939035321	gtests/CMakeFiles/tests_06.dir/tests.cpp.obj	769f39ca81d1fe1c
+1694	2604	8014868953450153	gtests/tests_06.exe	d52f5d6a4303ecb4

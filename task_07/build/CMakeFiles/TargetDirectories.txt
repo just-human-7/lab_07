@@ -1,0 +1,9 @@
+D:/vsc_projects/lab_07/task_07/build/CMakeFiles/test.dir
+D:/vsc_projects/lab_07/task_07/build/CMakeFiles/edit_cache.dir
+D:/vsc_projects/lab_07/task_07/build/CMakeFiles/rebuild_cache.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_basic.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_medium.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_small.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/edit_cache.dir
+D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/rebuild_cache.dir

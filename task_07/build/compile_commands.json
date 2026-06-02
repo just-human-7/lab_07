@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_basic.dir\\test_basic.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\tests\\test_basic.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/tests/test_basic.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_basic.dir/test_basic.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_basic.dir\\__\\logic.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\logic.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/logic.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_basic.dir/__/logic.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_medium.dir\\test_medium.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\tests\\test_medium.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/tests/test_medium.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_medium.dir/test_medium.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_medium.dir\\__\\logic.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\logic.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/logic.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_medium.dir/__/logic.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_small.dir\\test_small.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\tests\\test_small.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/tests/test_small.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_small.dir/test_small.cpp.obj"
+},
+{
+  "directory": "D:/vsc_projects/lab_07/task_07/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/vsc_projects/lab_07/task_07 -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_small.dir\\__\\logic.cpp.obj -c D:\\vsc_projects\\lab_07\\task_07\\logic.cpp",
+  "file": "D:/vsc_projects/lab_07/task_07/logic.cpp",
+  "output": "D:/vsc_projects/lab_07/task_07/build/tests/CMakeFiles/test_small.dir/__/logic.cpp.obj"
+}
+]

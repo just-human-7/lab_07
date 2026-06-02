@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/vsc_projects/lab_07/task_03/build/cmake_install.cmake",
+		"D:/vsc_projects/lab_07/task_03/build/gtests/cmake_install.cmake",
+		"D:/vsc_projects/lab_07/task_03/build/_deps/googletest-build/cmake_install.cmake",
+		"D:/vsc_projects/lab_07/task_03/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"D:/vsc_projects/lab_07/task_03/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

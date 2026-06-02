@@ -1,0 +1,18 @@
+Start testing: May 26 15:23 Томск (зима)
+----------------------------------------------------------
+3/3 Testing: test_small
+3/3 Test: test_small
+Command: "D:/vsc_projects/lab_07/task_07/build/tests/test_small.exe"
+Directory: D:/vsc_projects/lab_07/task_07/build/tests
+"test_small" start time: May 26 15:23 Томск (зима)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"test_small" end time: May 26 15:23 Томск (зима)
+"test_small" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 26 15:23 Томск (зима)

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

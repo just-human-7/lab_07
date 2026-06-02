@@ -1,0 +1,21 @@
+# ninja log v7
+2	76	8014562417809013	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	60a9cfa0c82e6ecf
+2	76	8014562417809013	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	60a9cfa0c82e6ecf
+77	2988	8014562446926904	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	50b09917de35a2e9
+77	2988	8014562446926904	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	50b09917de35a2e9
+2988	3062	8014562447667148	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	97d3f6c3d5a95746
+2988	3062	8014562447667148	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	97d3f6c3d5a95746
+3063	3136	8014562448382247	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	6c336b21a0776359
+3063	3136	8014562448382247	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	6c336b21a0776359
+3136	3218	8014562449230253	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2812e570b34f444b
+3136	3218	8014562449230253	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2812e570b34f444b
+3218	3299	8014562450023841	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	660b8f2323dd0a71
+3218	3299	8014562450023841	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	660b8f2323dd0a71
+3299	3368	8014562450735608	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	385efc347e298cbf
+3299	3368	8014562450735608	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	385efc347e298cbf
+3369	3437	8014562451417783	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	23638f312edb35aa
+3369	3437	8014562451417783	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	23638f312edb35aa
+3437	3532	8014562452369448	CMakeFiles/googletest-populate-complete	edd0e3c06f9bc52b
+3437	3532	8014562452369448	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	edd0e3c06f9bc52b
+3437	3532	8014562452369448	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	edd0e3c06f9bc52b
+3437	3532	8014562452369448	D:/vsc_projects/lab_07/task_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	edd0e3c06f9bc52b
